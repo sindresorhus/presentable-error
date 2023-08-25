@@ -1,6 +1,6 @@
 {
 	"name": "presentable-error",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "Make presentable errors",
 	"license": "MIT",
 	"repository": "sindresorhus/presentable-error",
